@@ -5,6 +5,7 @@
   <br/>
   <!-- 后端技术栈 -->
   <img src="https://img.shields.io/badge/-SQLalchemy-6DB33F?style=flat-square&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dify-6DB33F?style=flat-square&logo=dify&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
